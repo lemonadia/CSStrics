@@ -1,10 +1,10 @@
-
+/*Cross-text-selection*/
 ::selection{
   background-color: #f3b70f;
 }
 /*for firefox*/
 ::-moz-selection{
-  background-color: salmon; 
+  background-color: salmon;
 }
 
 body {
