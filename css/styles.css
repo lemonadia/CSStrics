@@ -404,7 +404,7 @@ ol.numbered-list>li:before {}
   align-items: flex-start;
 }
 
-/*sibling combinator*/
+/*sibling combinator that select paragraph that immediatly fallows chart-legent*/
 
 .chart-legend + p {
 
