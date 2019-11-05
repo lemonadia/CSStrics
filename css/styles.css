@@ -358,7 +358,15 @@ ol.numbered-list>li:before {}
 
 /*custom bullet points*/
 
-.list li::before {}
+.list li::before {
+  content: url('../img/banana-icon.png');
+  position: absolute;
+  left: 0;
+  top: 22px;
+  height: 48px;
+  width: 48px;
+  border-radius: 50%;
+}
 
 /*object fit class for the images*/
 
